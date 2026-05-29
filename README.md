@@ -2,7 +2,7 @@
 ARTIFICIAL INTELLIGENCE ASSIGNMENT
 ============================================================
 
-Submitted By: Srimedha Hasini Pappala
+Submitted By:
 Name: Srimedha Hasini Pappala
 Roll Number: SE24UCSE186
 Department: Computer Science Engineering
